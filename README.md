@@ -6,10 +6,10 @@ TEAM MEMBERS:
 
 Front-End:
 
-Anuraag Jangra		(2410990104)	    (HTML & CSS)
-Divyansh Kumar 		(2410990138)	    (JAVASCRIPT)
-Yash Kumar			  (2410990160)	    (CSS & BOOTSTRAP)
-Pranav Sharma		  (2410991479)	    (HTML & BOOTSTRAP)
+Anuraag Jangra		(2410990104)	    (HTML & CSS);     
+Divyansh Kumar 		(2410990138)	    (JAVASCRIPT);     
+Yash Kumar			  (2410990160)	    (CSS & BOOTSTRAP);     
+Pranav Sharma		  (2410991479)	    (HTML & BOOTSTRAP);     
 
 
 Back-End:
